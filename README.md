@@ -5,9 +5,8 @@
 
 #### Client Installation
 
-http
+
 cd client
-```
 ```http
 npm install
 ```

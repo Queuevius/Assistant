@@ -5,7 +5,7 @@
 
 #### Client Installation
 
-```http
+http
 cd client
 ```
 ```http
